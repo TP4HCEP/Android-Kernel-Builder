@@ -3,7 +3,7 @@
     "kernelSource": {
       "name": "kernel_pyxis",
       "repo": "https://github.com/TP4HCEP/sandcastle",
-      "branch": "pyxis-4.9",
+      "branch": "4.9-pyxis",
       "device": "pyxis",
       "defconfig": "pyxis_defconfig"
     },
